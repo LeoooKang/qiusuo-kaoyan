@@ -30,7 +30,7 @@
 | 仓库名 | 可见性 | 用途 | 说明 |
 |--------|--------|------|------|
 | `notes` | **Public** | 核心知识母舰 | 存放全部去个人化的 Markdown 笔记、图片、Canvas、模板 |
-| `onboarding` | **Public** | 新舰长上船指南 | Git+Obsidian 傻瓜级图文教程、常见 Q&A |
+| `onboarding` | **Public** | 新舰长上船指南 | Git+Obsidian 零基础图文教程、常见 Q&A |
 
 ### 可选扩展仓库（Phase 3+ 视情况创建）
 
