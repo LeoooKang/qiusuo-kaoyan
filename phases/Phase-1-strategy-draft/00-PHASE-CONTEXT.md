@@ -9,7 +9,7 @@
 
 ## 🎯 Phase 目标
 
-1. 设计**舰长联盟（GitHub Organization）**的完整架构。
+1. 设计**舰长舰队（GitHub Organization）**的完整架构。
 2. 明确**代际传承工作流**（Fork → 本地优化 → PR → Review → Merge → Release）。
 3. 设计笔记的**元数据标准**和**舰长批注规范**。
 4. 起草母舰仓库的核心文档结构（README / LICENSE / CONTRIBUTING）。

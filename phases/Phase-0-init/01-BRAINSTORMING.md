@@ -9,7 +9,7 @@
 
 ## 🎯 Phase 目标
 
-建立 `qiusuo-kaoyan` 的临时工作空间，确认采用**方案 C（舰长联盟 / GitHub Organization）**，为后续实施方案草稿做准备。
+建立 `qiusuo-kaoyan` 的临时工作空间，确认采用**方案 C（舰长舰队 / GitHub Organization）**，为后续实施方案草稿做准备。
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 🔧 确认方案
 
-**选择**: 方案 C（舰长联盟 / GitHub Organization）
+**选择**: 方案 C（舰长舰队 / GitHub Organization）
 
 **理由**:
 - Leo明确表示「太酷了」
@@ -68,7 +68,7 @@
 
 ## ❓ 确认清单
 
-- [x] 采用方案 C（舰长联盟）
+- [x] 采用方案 C（舰长舰队）
 - [x] 项目 slug 定为 `qiusuo-kaoyan`
 - [x] 初始化工作空间符合 SOP
 - [x] Leo最终确认

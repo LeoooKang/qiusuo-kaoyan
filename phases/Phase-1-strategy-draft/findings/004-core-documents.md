@@ -7,7 +7,7 @@
 
 ## 摘要
 
-为 `qiusuo-kaoyan/notes` 母舰仓库起草三份核心文档：`README.md`、`LICENSE`、`CONTRIBUTING.md`。这些文档是舰长联盟对外的第一印象，也是传承机制的制度基石。
+为 `qiusuo-kaoyan/notes` 母舰仓库起草三份核心文档：`README.md`、`LICENSE`、`CONTRIBUTING.md`。这些文档是舰长舰队对外的第一印象，也是传承机制的制度基石。
 
 ---
 
@@ -380,7 +380,7 @@ date: {{date}}
 
 ## 影响
 
-这三份文档构成了舰长联盟的「对外窗口」和「制度基石」：
+这三份文档构成了舰长舰队的「对外窗口」和「制度基石」：
 - **README** 解决「这是什么」和「为什么参与」
 - **LICENSE** 解决「权利和义务」
 - **CONTRIBUTING** 解决「怎么参与」

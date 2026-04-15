@@ -29,7 +29,7 @@
 
 ## 🔧 确认方案
 
-采用 **方案 C：舰长联盟（GitHub Organization + 多仓库生态）**
+采用 **方案 C：舰长舰队（GitHub Organization + 多仓库生态）**
 
 项目 slug: `qiusuo-kaoyan`
 
