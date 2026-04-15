@@ -10,7 +10,7 @@
 ## 🎯 Phase 目标
 
 1. 在 `temp-scripts/` 中建立符合 SOP v3.2.0 的完整项目工作空间。
-2. 确认用户选择**方案 C（舰长联盟 / GitHub Organization）**。
+2. 确认Leo选择**方案 C（舰长联盟 / GitHub Organization）**。
 3. 汇总当前已完成的本地清洗成果，作为后续 Phase 的上下文基础。
 4. 准备进入 Phase 1 Brainstorming。
 
@@ -43,5 +43,5 @@
 
 - [x] 目录结构符合 SOP
 - [x] 核心文档已创建
-- [x] 用户确认方案 C
-- [ ] 用户确认进入 Phase 1
+- [x] Leo确认方案 C
+- [ ] Leo确认进入 Phase 1

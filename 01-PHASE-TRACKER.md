@@ -19,10 +19,10 @@
 ## Phase 里程碑
 
 ### Phase 0 - 初始化
-- [x] 2026-04-15: 用户确认选择方案 C（舰长联盟 / GitHub Organization）
+- [x] 2026-04-15: Leo确认选择方案 C（舰长联盟 / GitHub Organization）
 - [x] 2026-04-15: 创建 `temp-scripts/qiusuo-kaoyan/` 项目工作空间
 - [ ] 2026-04-15: 完成 Phase 0 文档初始化
-- [ ] 2026-04-15: 用户确认进入 Phase 1
+- [ ] 2026-04-15: Leo确认进入 Phase 1
 
 ### Phase 1 - 实施方案草稿
 - [ ] 起草 GitHub Org 架构设计
@@ -55,4 +55,4 @@
 
 ## 下一步
 
-等待用户审阅 Phase 0 文档，确认后进入 Phase 1 Brainstorming。
+等待Leo审阅 Phase 0 文档，确认后进入 Phase 1 Brainstorming。
