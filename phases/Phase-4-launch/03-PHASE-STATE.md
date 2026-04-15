@@ -59,6 +59,7 @@
 - **验证标准 #4**: 等待第一位学弟学妹实际 Fork 并在 Obsidian 中成功打开母舰
 - **onboarding 内容完善**: 目前只有 README 骨架，需要 Leo 逐步补充图文教程
 - **第二批舰长培养**: 27 届上岸后邀请加入 `Captains` Team
+- **ISSUE-001**: 部分笔记包含直接复制自 AI 生成的内容，需在 Phase 5 进行系统性清洗并建立来源标注规范。详见 [`05-KNOWN-ISSUES.md`](../../05-KNOWN-ISSUES.md)
 
 ---
 
