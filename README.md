@@ -1,3 +1,7 @@
+> ⚠️ **临时草稿仓库**：本仓库仅用于 Phase 0-1 施工记录和方案审阅。真正的「求索号」考研知识母舰将在 `qiusuo-kaoyan` GitHub Organization 中创建，请勿将本仓库当作最终版本 Fork。
+
+---
+
 # 🚀 求索号考研舰队 (Qiusuo Kaoyan Fleet)
 
 > **项目**: 将个人 Obsidian 考研笔记库升级为代际传承的开源知识母舰
