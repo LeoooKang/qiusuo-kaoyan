@@ -74,7 +74,7 @@ git add -A
 git commit -m "你的提交信息"
 git push origin main
 ```
-> 注：如果 git 协议层连不上 GitHub，可改用 GitHub API 脚本推送。
+> 注：git 协议层已恢复正常，可直接推送。
 
 ---
 
