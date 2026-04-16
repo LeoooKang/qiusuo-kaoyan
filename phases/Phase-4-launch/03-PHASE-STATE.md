@@ -19,6 +19,7 @@
 | 移除 `workspace-mobile.json` 追踪 | ✅ 完成 | 2026-04-16 |
 | 排查移出日记的死链 | ✅ 完成 | 2026-04-16 |
 | 建立全局索引页 | ✅ 完成 | 2026-04-16 |
+| 创建 Org Profile README | ✅ 完成 | 2026-04-16 |
 
 ---
 
@@ -33,6 +34,10 @@
 
 - **上船指南**: [github.com/qiusuo-kaoyan/onboarding](https://github.com/qiusuo-kaoyan/onboarding)
   - 已重写为完整的零基础快速上船指南（含 Fork→Clone→Open 三步法、插件安装说明、FAQ）
+
+- **Org 主页**: [github.com/qiusuo-kaoyan](https://github.com/qiusuo-kaoyan)
+  - 通过 `.github/profile/README.md` 展示项目定位、核心舰队和快速链接
+  - 待手动 Pin `notes` 和 `onboarding` 仓库到主页
 
 - **首个 Release**: [v26.0](https://github.com/qiusuo-kaoyan/notes/releases/tag/v26.0)
   - 舰船升级日志
@@ -75,6 +80,7 @@
 ## 遗留任务
 
 - **验证标准 #4**: 等待第一位学弟学妹实际 Fork 并在 Obsidian 中成功打开母舰
+- **手动 Pin 仓库**: 在 [github.com/qiusuo-kaoyan](https://github.com/qiusuo-kaoyan) 主页手动固定 `notes` 和 `onboarding`（GitHub API 不支持自动 Pin）
 - **onboarding 进阶**: README 快速指南已就位，待补充图文分步截图/视频教程
 - **第二批舰长培养**: 27 届上岸后邀请加入 `Captains` Team
 - **ISSUE-001**: 详见 [`05-KNOWN-ISSUES.md`](../../05-KNOWN-ISSUES.md)。Leo 已完成第一轮 AI 内容筛查与精修，母舰已同步更新至 v26.1。高隐私日记移出后未发现断裂的引用链接。

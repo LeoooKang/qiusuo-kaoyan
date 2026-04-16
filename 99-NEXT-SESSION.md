@@ -1,12 +1,12 @@
 # 下次会话快速启动指南
 
-**最后更新**: 2026-04-15
+**最后更新**: 2026-04-16
 
 ---
 
 ## 项目当前状态（一句话）
 
-「求索号」考研舰队母舰已正式启航。GitHub Org `qiusuo-kaoyan`、核心仓库 `notes`、辅助仓库 `onboarding` 均已就位。`v26.0` 为首次发布，`v26.1` 为文档补丁（修复硬编码路径 + AI 内容精修）。
+「求索号」考研舰队基础设施已完备。GitHub Org `qiusuo-kaoyan` 拥有公开主页 README、核心仓库 `notes`、辅助仓库 `onboarding`、文档补丁 `v26.1`，以及母舰内部全局索引页。当前处于**等待用户验证反馈**阶段。
 
 ---
 
@@ -14,9 +14,11 @@
 
 | 资源 | 地址 |
 |------|------|
+| **Org 主页** | https://github.com/qiusuo-kaoyan |
 | 母舰仓库 | https://github.com/qiusuo-kaoyan/notes |
 | 上船指南 | https://github.com/qiusuo-kaoyan/onboarding |
-| 首个 Release | https://github.com/qiusuo-kaoyan/notes/releases/tag/v26.0 |
+| 最新 Release | https://github.com/qiusuo-kaoyan/notes/releases/latest |
+| 母舰全局索引 | `0. 指挥中心/🗺️ 求索号快速导航.md` |
 | 本地 Vault | `D:\Obsidian Repo\💯一研为定` |
 | 项目工作空间 | `D:\Search Space\temp-scripts\qiusuo-kaoyan` |
 
@@ -24,9 +26,10 @@
 
 ## 按优先级排列的待办方向
 
-### P0 - 验证与反馈（不 blocker，但值得优先观察）
+### P0 - 验证与反馈
 - [ ] 等待/收集第一位学弟学妹 Fork 后的反馈
 - [ ] 根据反馈迭代 `onboarding` 仓库的上船指南
+- [ ] 检查 Dataview 看板在新用户环境下的"开箱"表现
 
 ### P1 - 内容持续精修
 - [ ] 对剩余 AI 味较重的笔记进行第二轮人工审校
@@ -40,6 +43,7 @@
 - [ ] 个人博客：同步长文介绍
 
 ### P3 - 组织建设（长期）
+- [ ] 手动 Pin 住 `notes` 和 `onboarding` 到 Org 主页（如尚未操作）
 - [ ] 邀请 1-2 位已上岸朋友加入 Org 作为 `Owners` 备份
 - [ ] 27 届上岸后，邀请第二代舰长加入 `Captains` Team
 
@@ -82,6 +86,7 @@ qiusuo-kaoyan/
 ├── 01-PHASE-TRACKER.md           # Phase 完成状态
 ├── 02-PROJECT-PREFERENCES.md     # Leo 偏好记录
 ├── 05-KNOWN-ISSUES.md            # 已知问题与待办
+├── 06-AUDIT-2026-04-16.md        # 项目审计报告
 ├── 99-NEXT-SESSION.md            # 本文件
 ├── phases/
 │   ├── Phase-0-init/             # 初始化记录
@@ -91,7 +96,8 @@ qiusuo-kaoyan/
 │   └── Phase-4-launch/           # 启航推送记录 + 招募文案
 └── snapshots/                     # 历史快照
     ├── 001-snapshot-Phase0-init-done.md
-    └── 002-snapshot-Phase4-launch-v26.1-done.md
+    ├── 002-snapshot-Phase4-launch-v26.1-done.md
+    └── 003-snapshot-org-profile-done.md
 ```
 
 ---
