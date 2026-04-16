@@ -41,6 +41,7 @@
   - 替换工具箱文章中的本地 Windows 绝对路径
   - 排除 `.obsidian/workspace.json` 出 Git 追踪
   - Leo 完成首轮 AI 内容筛查与精修（English 作文 DB、数学武器库、周复盘等）
+  - 修复 README 中第一代舰长链接（`你的用户名` → `LeoooKang`）
 
 ### 📢 招募素材
 
