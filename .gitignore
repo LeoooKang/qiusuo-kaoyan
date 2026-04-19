@@ -1,2 +1,4 @@
 # Local Obsidian vault for testing - NOT tracked in git
 notes/
+*.json
+*_readme.md
