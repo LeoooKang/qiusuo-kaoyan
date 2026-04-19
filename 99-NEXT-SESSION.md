@@ -80,6 +80,26 @@
 17. ✅ **项目偏好更新**
     - 记录版本发布偏好：小改不发新版、默认同步母舰仓库、网盘 zip 优先从母舰打包
 
+18. ✅ **舰长认证章程制定**
+    - 头脑风暴社区治理机制（Leo 决策：不设绩效考核、为爱发电）
+    - 起草 `08-CAPTAIN-CHARTER.md`（三层身份体系：船员→见习舰长→正式舰长）
+    - 定义晋升路径、权限矩阵、科目分流审核机制
+    - 同步到母舰仓库 `CONTRIBUTING-CAPTAIN-CHARTER.md`
+    - 在母舰 `CONTRIBUTING.md` 中添加章程入口（顶部 banner + 晋升路径下链接）
+
+19. ✅ **星图档案馆（starlog-archive）建设**
+    - 创建 GitHub 仓库 `qiusuo-kaoyan/starlog-archive`
+    - 编写档案馆 README、投稿指南（CONTRIBUTING.md）、PR 模板
+    - 创建数学 / 英语 / 专业课三个科目索引页
+    - 规范压缩包命名：`{科目}-gen{N}-{舰长名}-v{X.Y}.zip`
+    - 投稿走 Release asset，不进 git 历史
+
+20. ✅ **星图档案馆全站同步**
+    - 母舰 `README.md` 新增「星图档案馆」章节
+    - 母舰导航页 `🗺️ 求索号快速导航.md` 新增档案馆入口
+    - Org Profile README（`.github` 仓库）核心舰队表格 + 快速链接添加档案馆
+    - `onboarding` 仓库 README 相关链接添加档案馆
+
 ### 当前待续
 - [x] 处理 `5. 考研日记`（约 82 个文件）的去 AI 味 ✅ 2026-04-18
 - [x] 插件体系精简 + 文档透明化 ✅ 2026-04-18
