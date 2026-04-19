@@ -117,6 +117,7 @@
 ### P3 - 组织建设（长期）
 - [x] 手动 Pin 住 `notes` 和 `onboarding` 到 Org 主页 ✅ 2026-04-17
 - [x] 将 Org 成员默认权限设为 `Read` ✅ 2026-04-17
+- [x] **确定舰长认证章程**（三层身份 + 审核分流 + 为爱发电不设考核）✅ 2026-04-19 → 详见 [`08-CAPTAIN-CHARTER.md`](./08-CAPTAIN-CHARTER.md)
 - [ ] 邀请 1-2 位已上岸朋友加入 Org 作为 `Owners` 备份
 - [ ] 27 届上岸后，邀请第二代舰长加入 `Captains` Team
 - [ ] **搭建官方导航站点** `qiusuo-kaoyan.github.io`
