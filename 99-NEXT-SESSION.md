@@ -17,6 +17,7 @@
 | **Org 主页** | https://github.com/qiusuo-kaoyan |
 | 母舰仓库 | https://github.com/qiusuo-kaoyan/notes |
 | 上船指南 | https://github.com/qiusuo-kaoyan/onboarding |
+| 星图档案馆 | https://github.com/qiusuo-kaoyan/starlog-archive |
 | 最新 Release | https://github.com/qiusuo-kaoyan/notes/releases/latest |
 | 母舰全局索引 | `0. 指挥中心/🗺️ 求索号快速导航.md` |
 | 本地 Vault | `D:\Obsidian Repo\💯一研为定` |
@@ -118,6 +119,7 @@
 - [x] 手动 Pin 住 `notes` 和 `onboarding` 到 Org 主页 ✅ 2026-04-17
 - [x] 将 Org 成员默认权限设为 `Read` ✅ 2026-04-17
 - [x] **确定舰长认证章程**（三层身份 + 审核分流 + 为爱发电不设考核）✅ 2026-04-19 → 详见 [`08-CAPTAIN-CHARTER.md`](./08-CAPTAIN-CHARTER.md)
+- [x] **创建星图档案馆** `starlog-archive` 仓库（按科目归档舰长航海日志压缩包）✅ 2026-04-19
 - [ ] 邀请 1-2 位已上岸朋友加入 Org 作为 `Owners` 备份
 - [ ] 27 届上岸后，邀请第二代舰长加入 `Captains` Team
 - [ ] **搭建官方导航站点** `qiusuo-kaoyan.github.io`
